@@ -4,3 +4,5 @@ Today I learned about git commit importance.
 Git commit creates a snapshot of my project.
 
 Learning about local commits without pushing.
+
+Git push is needed to update GitHub.
