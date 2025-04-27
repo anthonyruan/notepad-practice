@@ -1,2 +1,4 @@
 This is my first GitHub practice note.
 Today I learned about git commit importance.
+
+Git commit creates a snapshot of my project.
