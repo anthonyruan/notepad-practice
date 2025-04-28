@@ -8,3 +8,4 @@ Learning about local commits without pushing.
 Git push is needed to update GitHub.
 Today I practiced understanding Git Diffs.
 Adding lines carefully shows Git behavior.  
+Practicing branch workflows.
